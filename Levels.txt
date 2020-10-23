@@ -1,5 +1,5 @@
-[NPC]moroskin321#4639 9999999
-[NPC]Lenin#0592 1
-Pirty#8204 370
-Pirty 365
-Tea#0831 13
+Pirty#8204 4
+TURURU 3
+Tururup 3
+Turu 3
+[NPC]moroskin321#4639 5
